@@ -5,3 +5,17 @@ __pycache__/
 .DS_Store
 node_modules/
 *.pyc
+.env
+.venv/
+data/
+__pycache__/
+.DS_Store
+node_modules/
+*.pyc
+.env
+.venv/
+data/
+__pycache__/
+.DS_Store
+node_modules/
+*.pyc
